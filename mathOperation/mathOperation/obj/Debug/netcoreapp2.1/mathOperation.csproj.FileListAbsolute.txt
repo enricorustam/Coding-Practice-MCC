@@ -1,0 +1,11 @@
+F:\program\tugas1-week2\mathOperation\mathOperation\bin\Debug\netcoreapp2.1\mathOperation.deps.json
+F:\program\tugas1-week2\mathOperation\mathOperation\bin\Debug\netcoreapp2.1\mathOperation.runtimeconfig.json
+F:\program\tugas1-week2\mathOperation\mathOperation\bin\Debug\netcoreapp2.1\mathOperation.runtimeconfig.dev.json
+F:\program\tugas1-week2\mathOperation\mathOperation\bin\Debug\netcoreapp2.1\mathOperation.dll
+F:\program\tugas1-week2\mathOperation\mathOperation\bin\Debug\netcoreapp2.1\mathOperation.pdb
+F:\program\tugas1-week2\mathOperation\mathOperation\obj\Debug\netcoreapp2.1\mathOperation.csprojAssemblyReference.cache
+F:\program\tugas1-week2\mathOperation\mathOperation\obj\Debug\netcoreapp2.1\mathOperation.csproj.CoreCompileInputs.cache
+F:\program\tugas1-week2\mathOperation\mathOperation\obj\Debug\netcoreapp2.1\mathOperation.AssemblyInfoInputs.cache
+F:\program\tugas1-week2\mathOperation\mathOperation\obj\Debug\netcoreapp2.1\mathOperation.AssemblyInfo.cs
+F:\program\tugas1-week2\mathOperation\mathOperation\obj\Debug\netcoreapp2.1\mathOperation.dll
+F:\program\tugas1-week2\mathOperation\mathOperation\obj\Debug\netcoreapp2.1\mathOperation.pdb
